@@ -10,6 +10,7 @@ var mySchule = new Gebäude.Schule("HTL", 2000, 2, 1200);
 
 var mySchule2 = new Gebäude.Schule("HTL", 2000, 4, "ute");
 
+var mySchule3 = new Gebäude.Schule("HAK", 2350, 3, "Berliner");
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine(myGebaeude.Name);
