@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\bin\Debug\net6.0\Gebäude.exe
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\bin\Debug\net6.0\Gebäude.deps.json
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\bin\Debug\net6.0\Gebäude.runtimeconfig.json
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\bin\Debug\net6.0\Gebäude.dll
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\bin\Debug\net6.0\Gebäude.pdb
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\Gebäude.csproj.AssemblyReference.cache
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\Gebäude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\Gebäude.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\Gebäude.AssemblyInfo.cs
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\Gebäude.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\Gebäude.dll
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\refint\Gebäude.dll
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\Gebäude.pdb
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\Gebäude.genruntimeconfig.cache
+C:\Users\lukas\Documents\Schule-HTL\4bWI\SWP\Gebäude\Gebäude\obj\Debug\net6.0\ref\Gebäude.dll
